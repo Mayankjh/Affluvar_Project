@@ -1,2 +1,2 @@
 # Affluvar_Project
-A website work done for Affluvar.
+A website design done for Affluvar.
