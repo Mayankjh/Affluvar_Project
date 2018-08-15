@@ -2241,7 +2241,7 @@ html {
 /* App Screenshot Area css
 ============================================================================================ */
 .app_screen_area {
-  padding: 100px 0px 240px 0px;
+  padding: 0px 0px 200px 0px;
 }
 
 .app_screen_area .main_title {
@@ -2260,7 +2260,7 @@ html {
   background: url(../img/screenshot/mobile-mockup2.png) no-repeat scroll center center;
   width: 501px;
   min-height: 611px;
-  left: 50.40%;
+  left: 15.4%;
   top: 51%;
   -webkit-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%) translateY(-50%);
@@ -2271,7 +2271,7 @@ html {
 
 .app_screen_inner .app_screen_slider .owl-dots {
   position: absolute;
-  left: 50%;
+  left: 15%;
   bottom: -155px;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
