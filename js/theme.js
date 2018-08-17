@@ -587,20 +587,23 @@
         if ( $('.app_screen_slider').length ){
             $('.app_screen_slider').owlCarousel({
                 loop:true,
+                pagination: false,
+                nav: false,
+                dots:false,
                 margin: 40,
-                items: 3,
+                items: 1,
                 nav:false,
                 autoplay: true,
                 smartSpeed: 1500,
-                dots: true,
+                // dots: true,
                 responsiveClass: true,
                 responsive: {
                     0: {
-                        items: 2,
+                        items: 1,
 						margin: 20,
                     },
                     600: {
-                        items: 3,
+                        items: 1,
 						margin: 40,
                     }
                 }

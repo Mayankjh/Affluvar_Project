@@ -2271,17 +2271,44 @@ html {
 
 .app_screen_inner .app_screen_slider .owl-dots {
   position: absolute;
-  left: 15%;
+  /* left: 12%; */
   bottom: -155px;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
 }
+@media (min-width:950px){
+  .ab_nine_text{
+    margin-top:150px;
+  }
+}
+@media (max-width: 990px){
+.play {
+  margin-left:30%
+}
+@media(min-width:990){
+  .app_screen_inner{
+    display: none !important;
+  }
+}
+.app_screen_area{
+  margin-left: 30%
+}
+}
+@media (max-width: 411px){
+.play{
+  margin-left:18%
+}
+.app_screen_area{
+  margin-left: 10%
+}
 
+}
 .app_screen_inner .app_screen_slider .owl-dots .owl-dot {
   height: 15px;
   width: 15px;
   margin-right: 10px;
+  margin-left: 20px;
   border-radius: 50%;
   position: relative;
   display: inline-block;
@@ -4120,6 +4147,8 @@ background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%
 ============================================================================================ */
 .about_nine_area {
   padding-top: 120px;
+
+  background-size: cover;
 }
 
 .about_nine_area .row {

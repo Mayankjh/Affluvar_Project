@@ -26,7 +26,7 @@
 }
 @media (max-width: 1460px){
 	.server_b_inner .server_shap_img {
-		margin-left: 0px; 
+		margin-left: 0px;
 	}
 	.server_b_inner .server_shap_img img {
 		width: 100%;
@@ -164,7 +164,7 @@
 		opacity: 1;
 		visibility: visible;
 		transform: translateY(0%);
-		
+
 	}
 	.exclusive_team_item {
 		max-width: 270px;
@@ -406,9 +406,9 @@
 	.install_mockup_img img{
 		text-align: center;
 		max-width: 100%;
-	}	
+	}
 	.app_screen_inner::before {
-		
+
 		width: 59%;
 		background-size: contain;
 	}
@@ -743,7 +743,7 @@
 		margin-bottom: -30px;
 		overflow: hidden;
 	}
-	.l_s_blog_inner .col-xs-6{ 
+	.l_s_blog_inner .col-xs-6{
 		margin-bottom: 30px;
 	}
 	.contact_form_six .right_side .main_location {
@@ -1235,7 +1235,7 @@
 		padding-right: 15px;
 		float: none;
 		width: 100%;
-		margin: 60px auto 60px; 
+		margin: 60px auto 60px;
 	}
 	.about_nine_area .row {
 		display: block;
