@@ -63,7 +63,7 @@
 		    count: 2,
 		    xyScalar: 1,
 		    zOffset: 40,
-		    ambient: '#8D0B93',
+		    ambient: '#111',
 		    diffuse: '#FF057C',
 		    speed: 0.1,
 		    gravity: 1200,
