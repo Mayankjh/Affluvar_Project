@@ -1,5 +1,5 @@
 
-	
+
 	//============================================================
 	//
 	// Copyright (C) 2013 Matthew Wagerfield
@@ -51,7 +51,7 @@
 		    xRange: 0.5,
 		    yRange: 0.6,
 		    zRange: 1.0,
-		    ambient: '#005555',
+		    ambient: '#321575',
 		    diffuse: '#FFFFff',
 		    speed: 0.0008
 		  };
@@ -63,8 +63,8 @@
 		    count: 2,
 		    xyScalar: 1,
 		    zOffset: 40,
-		    ambient: '#ae1bb2',
-		    diffuse: '#107ec9',
+		    ambient: '#8D0B93',
+		    diffuse: '#FF057C',
 		    speed: 0.1,
 		    gravity: 1200,
 		    dampening: .95,
